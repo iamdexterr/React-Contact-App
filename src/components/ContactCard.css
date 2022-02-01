@@ -1,0 +1,31 @@
+.contact-card{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(150, 150, 150);
+    padding: 20px 0;
+}
+
+
+.info {
+    display: flex;
+}
+
+.info .imgbox{
+    width: 50px;
+}
+
+.info .imgbox img{
+    width: 100%;
+    
+}
+
+.info .contentbox{
+    margin-left: 10px;
+}
+
+.icon i{
+    font-size: 40px;
+    color: red;
+    cursor: pointer;
+}

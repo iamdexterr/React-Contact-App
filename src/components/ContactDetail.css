@@ -1,0 +1,25 @@
+.detailCard{
+    width: 300px;
+    margin: 40px auto;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow :6px 6px 6px rgba(0,0,0,0.15);
+}
+
+.detailCard .detailImg,.detailCard .detailImg img{
+    width: 100%;
+}
+
+.detailCard .detailContent{
+    padding: 20px;
+}
+
+.detailCard .detailContent p{
+    color: gray;
+}
+
+.btn2{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
